@@ -3,13 +3,13 @@
   "marquee": {
     "enabled": true,
     "text": "আত্মাকে কন্ট্রোল করুন",
-    "click_url": ""
+    "click_url": "https://www.facebook.com/nafsGuard"
   },
   "advertisement": {
-    "enabled": false,
+    "enabled": true,
     "id": "",
-    "image_url": "",
-    "click_url": "",
+    "image_url": "https://raw.githubusercontent.com/nazmulhasan77/App_Config/main/NafsGuard/bannar_nafsguard.webp",
+    "click_url": "https://www.facebook.com/nafsGuard",
     "start_date": "",
     "end_date": ""
   }
