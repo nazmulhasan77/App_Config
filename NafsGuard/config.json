@@ -1,0 +1,16 @@
+{
+  "minimum_version": "1.0.3",
+  "marquee": {
+    "enabled": true,
+    "text": "আত্মাকে কন্ট্রোল করুন",
+    "click_url": ""
+  },
+  "advertisement": {
+    "enabled": false,
+    "id": "",
+    "image_url": "",
+    "click_url": "",
+    "start_date": "",
+    "end_date": ""
+  }
+}
